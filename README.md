@@ -41,6 +41,10 @@ contoh Metode :
 - **hapus(nama)**: Metode ini memungkinkan pengguna untuk menghapus mahasiswa dari daftar berdasarkan nama.
 - **ubah(nama, umur=None, alamat=None)**: Metode ini memungkinkan pengguna untuk memperbarui informasi mahasiswa, seperti umur dan alamat.
 
+# Hasil outputnya : 
+
+![OUTPUTNYA](https://github.com/user-attachments/assets/78d725ed-edb7-43b3-a615-7caf3114fd40)
+
 
 # Diagram alur : 
 
