@@ -1,6 +1,14 @@
+# WINA SUSANTI - NIM 352310473
 # Penjelasan Program
 
 Program ini merupakan implementasi sederhana dari konsep pemrograman berorientasi objek menggunakan bahasa Python. Dalam program ini terdata informasi seperti nama, umur, NIM (Nomor Induk Mahasiswa), dan alamat.  berikut perintah pemogramannya : 
+
+![perintah 1](https://github.com/user-attachments/assets/3487975b-a5ac-441d-b7a8-3005c6f637eb)
+![perintah 2](https://github.com/user-attachments/assets/2fd94a71-68e0-4bf4-899b-005453e095f2)
+![perintah 3](https://github.com/user-attachments/assets/b1e13158-8a45-44c8-a465-d6b0723db1b2)
+![perintah 4](https://github.com/user-attachments/assets/8777bb86-7ec5-4890-9f11-7d1ed4fcb491)
+![perintah 5](https://github.com/user-attachments/assets/0c87abd5-8400-45c0-8c25-971915e40e8b)
+
 
 ## Kelas `Person`
 
@@ -32,3 +40,12 @@ contoh Metode :
 - **tampilkan()**: Metode ini melakukan iterasi melalui semua mahasiswa dalam daftar dan mencetak informasi mereka dengan cara yang terstruktur.
 - **hapus(nama)**: Metode ini memungkinkan pengguna untuk menghapus mahasiswa dari daftar berdasarkan nama.
 - **ubah(nama, umur=None, alamat=None)**: Metode ini memungkinkan pengguna untuk memperbarui informasi mahasiswa, seperti umur dan alamat.
+
+
+# Diagram alur : 
+
+![diagram salsa](https://github.com/user-attachments/assets/6f9fb214-d407-4781-8898-ea656270ef96)
+
+# flowchart : 
+
+![flowchart](https://github.com/user-attachments/assets/b06c4fa7-84ed-47be-8bd7-57a40cce5b8e)
